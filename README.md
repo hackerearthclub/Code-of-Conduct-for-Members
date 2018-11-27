@@ -1,4 +1,4 @@
-# Code-of-Conduct-for-Members
+# Code-of-Conduct-for-Members of the club.
 
 
 The purpose of our Community Code of Conduct is to ensure that all participants in the club have the best possible experience. We are all here to help each other learn, grow our skillsets and have a good time!
